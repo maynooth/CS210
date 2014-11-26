@@ -1,4 +1,6 @@
-
+/*
+* Dice class
+*/
 
 public class Dice {
 
