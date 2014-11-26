@@ -4,6 +4,7 @@ public class FindTopMovies
   public static void main(String args[])
   {
 
+    // initalise reader
     FileIO reader = new FileIO();
 
     String[] movies = reader.load("movies.csv"); // read in movies.csv file
