@@ -1,3 +1,6 @@
+/*
+* This program find the top rated movies
+*/
 
 public class FindTopMovies
 {
