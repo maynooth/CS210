@@ -1,3 +1,14 @@
+/*
+*
+* Asks the user for a word and pushes each char to a stack. Then pops each char and prints it out to reverse the word. 
+* Also prints our how the stack is changing.
+*
+* @author Daniel Paul
+* @date 27/11/12
+* @version 1.0
+*
+*/
+
 import java.util.Scanner;
 import java.util.Stack;
 
