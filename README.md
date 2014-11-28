@@ -24,4 +24,7 @@ Be adviced, due to the regulation of HackerRank, the code looks _different_ to t
 - [Print s n](HackerRank/Print_s_n/Solution.java) - Print a string _s_ out for _n_ times.  
 
 ### Others
-**Need to be constructed.**  
+**Online Resources**
+- [Visual Sorting Algorithms](http://visualgo.net/sorting.html)  
+
+**Needs to be constructed.**  
