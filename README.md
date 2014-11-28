@@ -18,6 +18,10 @@ CS210 - Algorithms and Data Structures I
 - [checkPalindrome.java](Stacks/checkPalindrome.java) - Check if a word is palindrome using stacks.
 - [reverseWord.java](Stacks/reverseWord.java) - Reverses a word and prints out how the stack changes.
 
+### HackerRank
+*** This part is the source codes of Maynooth University CS210 Competition. Click [here](https://www.hackerrank.com/test-competition) to redirect there. ***  
+Be adviced, due to the regulation of HackerRank, the code looks _different_ to the normal Java code, which probably could not run in normal Java develop environment. The "Print s n" project is an example of HackerRank behavior. Please note that all challenge in HackerRank which related to **input** must follow the form in the example.  
+- [Print s n](HackerRank/Print_s_n/Solution.java) - Print a string _s_ out for _n_ times.  
 
 ### Others
 **Need to be constructed.**  
