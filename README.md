@@ -23,6 +23,10 @@ CS210 - Algorithms and Data Structures I
 Be adviced, due to the regulation of HackerRank, the code looks _different_ to the normal Java code, which probably could not run in normal Java develop environment. The "Print s n" project is an example of HackerRank behavior. Please note that all challenge in HackerRank which related to **input** must follow the form in the example. Forthermore, the class name in HackerRank must be "Solution".  
 - [Print s n](HackerRank/Print_s_n/Solution.java) - Print a string _s_ out for _n_ times.  
 
+### SortingAlgorithms
+**This folder is for the sorting algoritms we have to know in java**
+- [bubbleSort.java](SortingAlgorithms/bubbleSort.java) - Bubble Sort
+
 ### Others
 **Online Resources**
 - [Visual Sorting Algorithms](http://visualgo.net/sorting.html)  
