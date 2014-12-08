@@ -26,6 +26,7 @@ Be adviced, due to the regulation of HackerRank, the code looks _different_ to t
 ### SortingAlgorithms
 **This folder is for the sorting algoritms we have to know in java**
 - [bubbleSort.java](SortingAlgorithms/bubbleSort.java) - Bubble Sort
+- [Part1.java](SortingAlgorithms/Part1.java) - This file includes all sorting algorithms that we have learnt, to be precise, it includes Bubble, Selection and Insertion sorting.
 
 ### LinkedList and Patient System
 - [lab9.java](Lab09/src/lab9.java) - The main class of patient system.
