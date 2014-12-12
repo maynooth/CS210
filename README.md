@@ -18,7 +18,7 @@ CS210 - Algorithms and Data Structures I
 - [checkPalindrome.java](Stacks/checkPalindrome.java) - Check if a word is palindrome using stacks.
 - [reverseWord.java](Stacks/reverseWord.java) - Reverses a word and prints out how the stack changes.
 
-### SortingAlgorithms
+### Sorting Algorithms
 **This folder is for the sorting algoritms we have to know in java**
 - [bubbleSort.java](SortingAlgorithms/bubbleSort.java) - Bubble Sort
 - [Part1.java](SortingAlgorithms/Part1.java) - This file includes all sorting algorithms that we have learnt, to be precise, it includes Bubble, Selection and Insertion sorting.
@@ -36,6 +36,10 @@ CS210 - Algorithms and Data Structures I
 **See the command help information, complie and run `java Fibonacci -help` in Command Prompt or Terminal. This package includes the method of creating a parameter-supported java program and exception handle statement.**
 - [Fibonacci.java](FibonacciSequence/src/Fibonacci.java) - The main class.
 
+### Triangular Numbers
+**A triangular number counts the objects that can form an equilateral triangle. The _n_-th triangular number is the number of dots composing a triangle with _n_ dots on a side, and is equal to the sum of the _n_ natural numbers from 1 to _n_. Click [_here_](http://en.wikipedia.org/wiki/Triangular_number) to redirect to the Wikipedia page of Triangular Number.**
+- [triNum.java](TriangularNumber/src/triNum.java) - The code provides two different ways: Print out the list of triangular numbers or only one with the index. Run `java triNum -help` for more information.
+
 ### HackerRank
 **This part is the source codes of Maynooth University CS210 Competition. Click [_here_](https://www.hackerrank.com/test-competition) to MU CS210 Competition on HackerRank.**  
 Be adviced, due to the regulation of HackerRank, the code looks _different_ to the normal Java code, which probably could not run in normal Java develop environment. The "Print s n" project is an example of HackerRank behavior. Please note that all challenge in HackerRank which related to **input** must follow the form in the example. Forthermore, the class name in HackerRank must be "Solution".  
@@ -46,4 +50,3 @@ Be adviced, due to the regulation of HackerRank, the code looks _different_ to t
 - [Visual Sorting Algorithms](http://visualgo.net/sorting.html)  
 - [Visual Algorithms](http://www.comp.nus.edu.sg/~stevenha/visualization/)
 
-**Needs to be constructed.**  
