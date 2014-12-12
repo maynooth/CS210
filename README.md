@@ -40,6 +40,10 @@ CS210 - Algorithms and Data Structures I
 **A triangular number counts the objects that can form an equilateral triangle. The _n_-th triangular number is the number of dots composing a triangle with _n_ dots on a side, and is equal to the sum of the _n_ natural numbers from 1 to _n_. Click [_here_](http://en.wikipedia.org/wiki/Triangular_number) to redirect to the Wikipedia page of Triangular Number.**
 - [triNum.java](TriangularNumber/src/triNum.java) - The code provides two different ways: Print out the list of triangular numbers or only one with the index. Run `java triNum -help` for more information.
 
+### Recursion Study
+- [sum.java](recursionStudy/src/sum.java) - Use recursion only to figure out the accumulative sum.
+- [gcd.java](recursionStudy/src/gcd.java) - Finding the [_greatest common divisor_](http://en.wikipedia.org/wiki/Greatest_common_divisor) of two numbers use recursion only.
+
 ### HackerRank
 **This part is the source codes of Maynooth University CS210 Competition. Click [_here_](https://www.hackerrank.com/test-competition) to MU CS210 Competition on HackerRank.**  
 Be adviced, due to the regulation of HackerRank, the code looks _different_ to the normal Java code, which probably could not run in normal Java develop environment. The "Print s n" project is an example of HackerRank behavior. Please note that all challenge in HackerRank which related to **input** must follow the form in the example. Forthermore, the class name in HackerRank must be "Solution".  
