@@ -1,0 +1,3 @@
+[submodule "AIB Datathon 2014"]
+	path = AIB Datathon 2014
+	url = https://github.com/danielpaul/Movie-Recommendation-Model.git
