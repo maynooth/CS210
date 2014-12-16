@@ -3,6 +3,7 @@ CS210 - Algorithms and Data Structures I
 
 **Be adviced, the first wiki has been released.**  
 [Wiki Home](https://github.com/maynooth/CS210/wiki) - Click here to redirect to the Wiki.  
+[Convert Java Executable to Linux Executable](https://github.com/maynooth/CS210/wiki/Convert-Java-Executable-to-Linux-Executable) - How to create a native binary executable file rather than *.class or *.jar?
 
 ***
 
