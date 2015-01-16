@@ -1,3 +1,7 @@
+/*
+  @author Daniel Paul
+*/
+
 import java.util.Arrays;
 
 public class four
@@ -65,7 +69,5 @@ public class four
 
     return unique.length();
   } // END countUnique
-
-
 
 }
