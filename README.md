@@ -22,7 +22,7 @@ CS210 - Algorithms and Data Structures I
 ### Sorting Algorithms
 This folder is for the sorting algoritms we have to know in java
 
-- [bubble sort.java](SortingAlgorithms/bubble Sort.java) - Bubble Sort
+- [bubble sort.java](SortingAlgorithms/bubble sort.java) - Bubble Sort
 - [insertion.java](SortingAlgorithms/insertion.java) - Insertion Sort
 - [selection.java](SortingAlgorithms/selection.java) - Selection Sort
 - [bubbleSort.java](SortingAlgorithms/bubbleSort.java) - Bubble Sort (different version)
