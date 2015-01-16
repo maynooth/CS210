@@ -1,10 +1,13 @@
 /*
-  @author Daniel Paul
+  @author Daniel Paul, James Hamm
 */
 
 import java.util.Arrays;
+
+/* Import for Alt method to find number of unique characters */
 import java.util.HashSet;
 import java.util.Set;
+
 
 public class four
 {
@@ -72,6 +75,8 @@ public class four
     return unique.length();
   } // END countUnique
   
+
+
   /*
     Alternative method to find the number of unique characters in a string, usign a set
     Much quicker as it only requires one pass on the string
