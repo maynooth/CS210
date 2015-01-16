@@ -1,3 +1,7 @@
+/*
+  @author Daniel Paul
+*/
+
 public class five
 {
   
@@ -6,8 +10,6 @@ public class five
 
     int[] array = {-5, -1, 2, -3, 0, -3, 3};
     System.out.println(findSum(array, 3));
-
-
   }
 
 
