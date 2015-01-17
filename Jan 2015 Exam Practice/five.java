@@ -41,6 +41,20 @@ public class five
     return sum;
   }
 
+  // Shortened using max function
+  public static int findSumAlt(int[] array, int n) {
+    int sum = 0;
 
+    for(int i = 0; i <= array.length - n; i++) {
+      int newSum = 0;
 
+      for(int j = i; j < i + n; j++) {
+        newSum += array[j];
+      }
+
+      sum = Math.max(sum, newSum);
+    }
+    
+    return sum;
+  }
 }
