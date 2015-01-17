@@ -40,8 +40,9 @@ public class five
 
     return sum;
   }
-  
-  public static int findSumm(int[] array, int n) {
+
+  // Shortened using max function
+  public static int findSumAlt(int[] array, int n) {
     int sum = 0;
 
     for(int i = 0; i <= array.length - n; i++) {
