@@ -7,7 +7,7 @@ public class bubble
   public static void main(String args[])
   {
 
-    int[] array = {1, 5, 8, 3, 10, 15, 53};
+    int[] array = {13, 5, 8, 3, 10, 15, 53};
 
 
     boolean swaped = false;

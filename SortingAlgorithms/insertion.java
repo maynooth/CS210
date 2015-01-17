@@ -15,7 +15,7 @@ public class insertion
       int inner = i;
 
       // loop to shift elements to make space
-      while(inner > 0 && array[i - 1] >= current)
+      while(inner > 0 && array[inner - 1] >= current)
       {
         array[inner] = array[inner - 1];
         inner--;
@@ -23,7 +23,6 @@ public class insertion
 
       array[inner] = current;
     }
-
 
     System.out.println(Arrays.toString(array));
 
